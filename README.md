@@ -1,16 +1,13 @@
-### Hi there 👋
+<h3 align="center"> mintea </h3>
+<h4 align="center"> writes somewhat functional code and drinks coffee </h4>
 
-<!--
-**minteeaa/minteeaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+- 🔭 does **discord bots**, **front-end**, **design**, and some other things
+- 🌱 currently learning **C#**, and how to escape a coffee addiction
+- 💬 ask about literally anything
+- 📫 contact me on discord @ `mintea#0001`
+- 😄 pronouns: entity
+- ⚡ fun fact: squirrels will die from starvation rather than terminal velocity in fall
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+yep
