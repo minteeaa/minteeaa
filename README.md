@@ -3,7 +3,7 @@
 
 ---
 
-- 🔭 does **discord bots**, **front-end**, **design**, and some other things
+- 🔭 does **discord bots**, **front-end**, **graphic design**, and some other things
 - 🌱 currently learning **C#**, and how to escape a coffee addiction
 - 💬 ask about literally anything
 - 📫 contact me on discord @ `mintea#0001`
