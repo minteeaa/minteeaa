@@ -14,6 +14,8 @@
 
 ### about
 
+I'm a developer of a few different languages and talents, none of which are exactly mindblowing, but I attempt to make an appeal to whoever I work with.
+
 - 🔭 does **discord bots**, **front-end**, **graphic design**, and some other things
 - 🌱 currently learning **C#**, and how to escape a coffee addiction
 - 📫 contact me on twitter [@minteaseu](https://twitter.com/minteaseu), discord @ `mintea#0001`, [or join my server](https://discord.gg/xraYxJt)
