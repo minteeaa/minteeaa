@@ -1,7 +1,5 @@
-<h3 align="center"> mintea </h3>
-<h4 align="center"> writes mostly functional code and drinks coffee </h4>
+# mintea ☕
 
----
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=minteeaa&count_private=true&show_icons=true&theme=dracula">
@@ -13,6 +11,7 @@
 </p>
 
 ---
+
 ### about
 
 - 🔭 does **discord bots**, **front-end**, **graphic design**, and some other things
@@ -30,6 +29,7 @@ If you can read, you can probably tell I use JavaScript a lot. While this may be
 I make most of my projects open-source, especially the bigger ones I've taken on. It's time consuming, and next to my day-to-day life, can be pretty hard to consistently contribute to a lot of these projects. Despite this, I am quickly stumbling along in this path of development that I hope I might be able to turn into a career one day. No pain, no gain, right?
 
 ---
+
 ### support
 
 I do most of my commissions and work for very low prices (and most times, free), so I take what I can get. 
