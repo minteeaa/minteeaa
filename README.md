@@ -28,7 +28,7 @@ I'm a developer of a few different languages and talents, none of which are exac
 
 If you can read, you can probably tell I use JavaScript a lot. While this may be true (and it is), I am quite well versed in HTML, CSS (or SCSS or SASS), I can use TypeScript if needed, and I have a history in graphic design, albeit that's less obvious here. I'm experimenting with other languages, mainly C# right now, but in the future I'm hoping to have a wider variety to show for.
 
-I make most of my projects open-source, especially the bigger ones I've taken on. It's time consuming, and next to my day-to-day life, can be pretty hard to consistently contribute to a lot of these projects. Despite this, I am quickly stumbling along in this path of development that I hope I might be able to turn into a career one day. No pain, no gain, right?
+I make most of my projects open-source, especially the bigger ones I've taken on. It's time consuming, and next to my day-to-day life, can be pretty hard to consistently contribute to a lot of these projects. Despite this, I am quickly stumbling along in this path of development that I hope I might be able to turn into a career one day.
 
 ---
 
